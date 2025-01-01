@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h2 align="left">Hi 👋! My name is Yishaq Damtew and I'm a Frontend Developer, from Ethiopia</h2>
 
